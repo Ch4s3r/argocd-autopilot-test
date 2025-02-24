@@ -14,4 +14,4 @@ configMapGenerator:
 kind: Kustomization
 namespace: argocd
 resources:
-- https://raw.githubusercontent.com/argoproj/argo-cd/v2.14.0/manifests/install.yaml
+- https://raw.githubusercontent.com/argoproj/argo-cd/v2.14.2/manifests/install.yaml
